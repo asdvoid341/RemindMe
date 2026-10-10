@@ -1,0 +1,13 @@
+<resources>
+    <style name="Theme.RemindMe" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/brand</item>
+    </style>
+
+    <style name="SectionLabel">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:layout_marginBottom">6dp</item>
+        <item name="android:textAppearance">?attr/textAppearanceLabelLarge</item>
+    </style>
+</resources>
